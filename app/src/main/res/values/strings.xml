@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TareaSemana2</string>
+    <string name="label_nombre">Nombre:</string>
+    <string name="label_apellido">Apellido:</string>
+    <string name="label_edad">Edad:</string>
+    <string name="button_mostrar">Mostrar</string>
+    <string name="hint_ingrese_su_nombre">Ingrese su nombre...</string>
+    <string name="hint_ingrese_su_apellido">Ingrese su apellido...</string>
+    <string name="hint_ingrese_su_edad">Ingrese su edad...</string>
+</resources>
